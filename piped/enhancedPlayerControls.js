@@ -6,7 +6,7 @@
 // @version     0.0.1
 // @author      William Grant
 // @license MIT
-// @description Enhance the piped.video player controls with tooltips on hover, looping, fast forward, rewind, seek forwards 10s, seek backwards 10s, etc.
+// @description Enhances the piped.video player controls with tooltips on hover, looping, fast forward, rewind, seek forwards 10s, seek backwards 10s, etc.
 // ==/UserScript==
 
 // Acknowledgements:
